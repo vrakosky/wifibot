@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/battery/Batterie.png</file>
+        <file>img/battery/Batterie2.png</file>
+        <file>img/battery/Batterie3.png</file>
+        <file>img/battery/BatterieC.png</file>
+        <file>img/boost/boost.svg</file>
+        <file>img/boost/boost2.svg</file>
+        <file>img/directionsCam/boussole.png</file>
+        <file>img/directionsCam/boussole2.png</file>
+        <file>img/directionsCam/circle.png</file>
+        <file>img/directionsCam/square.png</file>
+        <file>img/directionsCam/triangle.png</file>
+        <file>img/directionsCam/x.png</file>
+        <file>img/directionsMove/down.png</file>
+        <file>img/directionsMove/left.png</file>
+        <file>img/directionsMove/right.png</file>
+        <file>img/directionsMove/undo.png</file>
+        <file>img/directionsMove/undo.svg</file>
+        <file>img/directionsMove/up.png</file>
+        <file>img/esirem/esirem.png</file>
+        <file>img/esirem/logo_Esirem.png</file>
+    </qresource>
+</RCC>
